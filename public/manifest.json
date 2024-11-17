@@ -6,7 +6,7 @@
     "permissions": ["activeTab"],
     "host_permissions": ["*://*/*"],
     "action": {
-        "service_worker": "/openNewPopupTab.js"
+        "default_icon": "logo.png"
     },
 
     "background": {
