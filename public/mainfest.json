@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "GoLi - Screen Recorder",
+    "version": "1.0",
+    "description": "No More Searching a Application for Quick Tutorials. Record your screen with ease.",
+    "permissions": ["activeTab"],
+    "host_permissions": ["*://*/*"],
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
