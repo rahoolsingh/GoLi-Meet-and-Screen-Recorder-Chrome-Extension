@@ -2,10 +2,15 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/GoLi.png?token=GHSAT0AAAAAACWQ7BZAJV2JFK44J6MUJA26ZZ3NBSA" alt="Logo" />
-  <br>
-  <b>
-  Your Recording Partner</b>
-  <br>
+
+<img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/credit.png?token=GHSAT0AAAAAACWQ7BZBOFPLMR4AHYVBECKCZZ3NYBQ"
+  width="20px"
+  />
+<br>
+<b>
+Your Recording Partner</b>
+<br>
+
 </div>
   <img src="#" alt="Cover Image" />
 
