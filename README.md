@@ -2,18 +2,13 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/GoLi.png?token=GHSAT0AAAAAACWQ7BZAJV2JFK44J6MUJA26ZZ3NBSA" alt="Logo" />
-
+<p align="center"><b>Your Recording Partner</b></p>
 <img
  src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/credit.png?token=GHSAT0AAAAAACWQ7BZBOFPLMR4AHYVBECKCZZ3NYBQ"
   width="80px"
   />
-
-<p align="center">
-<b>Your Recording Partner</b></p>
-<br>
-
 </div>
-  <img src="#" alt="Cover Image" />
+<img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/cover-image.png?token=GHSAT0AAAAAACWQ7BZBOLFCAAPFZX2WJHMIZZ3PCYQ" alt="Cover Image" />
 
 ---
 
@@ -40,30 +35,6 @@
 -   🛠 **Meet Recording Button:** Direct recording integration for Google Meet and Zoom.
 -   🌐 **Custom Website Whitelisting:** Add specific websites where screen recording is enabled.
 -   💡 **More Exciting Additions:** Stay tuned for frequent updates!
-
----
-
-## **Screenshots**
-
-##### Extension
-
-![Screenshot - Extension](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-1.png?token=GHSAT0AAAAAACWQ7BZAFP4IS7DPH7L33SDCZZ3OIMQ)
-
-##### Home Interface
-
-![Screenshot - Home](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-2.png?token=GHSAT0AAAAAACWQ7BZB7XYZ53EWBJ25NLNGZZ3OKBQ)
-
-##### Recording Screen Selection
-
-![Screenshot - Screen Selection](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-3.png?token=GHSAT0AAAAAACWQ7BZASL2SNJ6K2UZ7CUBKZZ3OK7Q)
-
-##### Recording in Progress
-
-![Screenshot - Recording](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-4.png?token=GHSAT0AAAAAACWQ7BZB72IPJTCFLQKUKY2QZZ3OLPQ)
-
-##### Playback and Download
-
-![Screenshot - Playback](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-5.png?token=GHSAT0AAAAAACWQ7BZB32JS6W3G24ONMMECZZ3OMCQ)
 
 ---
 
@@ -95,6 +66,30 @@
 4. Start recording and enjoy!
 
 --- -->
+
+## **Screenshots**
+
+##### Extension
+
+![Screenshot - Extension](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-1.png?token=GHSAT0AAAAAACWQ7BZAFP4IS7DPH7L33SDCZZ3OIMQ)
+
+##### Home Interface
+
+![Screenshot - Home](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-2.png?token=GHSAT0AAAAAACWQ7BZB7XYZ53EWBJ25NLNGZZ3OKBQ)
+
+##### Recording Screen Selection
+
+![Screenshot - Screen Selection](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-3.png?token=GHSAT0AAAAAACWQ7BZASL2SNJ6K2UZ7CUBKZZ3OK7Q)
+
+##### Recording in Progress
+
+![Screenshot - Recording](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-4.png?token=GHSAT0AAAAAACWQ7BZB72IPJTCFLQKUKY2QZZ3OLPQ)
+
+##### Playback and Download
+
+![Screenshot - Playback](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-5.png?token=GHSAT0AAAAAACWQ7BZB32JS6W3G24ONMMECZZ3OMCQ)
+
+---
 
 ## **Contact the Developer**
 
