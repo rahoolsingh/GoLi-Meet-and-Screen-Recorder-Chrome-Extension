@@ -8,9 +8,9 @@
  src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/credit.png?token=GHSAT0AAAAAACWQ7BZBOFPLMR4AHYVBECKCZZ3NYBQ"
   width="80px"
   />
-<br>
-<b>
-Your Recording Partner</b>
+
+<p align="center">
+<b>Your Recording Partner</b></p>
 <br>
 
 </div>
