@@ -1,50 +1,66 @@
-# React + TypeScript + Vite
+  <h1><center>GoLi Screen Recorder</center></h1>
+<center>
+  <img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/GoLi.png?token=GHSAT0AAAAAACWQ7BZAJV2JFK44J6MUJA26ZZ3NBSA" alt="Logo" />
+</center>
+  <img src="#" alt="Cover Image" />
+  <hr>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <h2><strong>Overview</strong></h2>
+  <p><strong>GoLi Screen Recorder</strong> is a lightweight, React-based Chrome extension designed for hassle-free screen recording. Whether you’re capturing a tutorial, a presentation, or just sharing your screen, this tool ensures smooth recording with the ability to download your videos instantly.</p>
+  <p><strong>Works Offline:</strong> No internet? No problem! Record your screen without requiring an active internet connection.</p>
 
-Currently, two official plugins are available:
+  <hr>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <h2><strong>Features</strong></h2>
+  <ul>
+      <li>📹 <strong>Seamless Screen Recording:</strong> Record your screen effortlessly with a single click.</li>
+      <li>💾 <strong>Instant Download:</strong> Save recordings directly to your system in high-quality MP4 format.</li>
+      <li>🎥 <strong>Playback:</strong> Preview your recordings before downloading.</li>
+      <li>🚀 <strong>User-Friendly UI:</strong> Built with Vite and React for a sleek and responsive experience.</li>
+      <li>🌐 <strong>Works Without Internet:</strong> Record your screen even when you're offline.</li>
+  </ul>
 
-## Expanding the ESLint configuration
+  <hr>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+  <h2><strong>Upcoming Features</strong></h2>
+  <ul>
+      <li>🛠 <strong>Meet Recording Button:</strong> Direct recording integration for Google Meet and Zoom.</li>
+      <li>🌐 <strong>Custom Website Whitelisting:</strong> Add specific websites where screen recording is enabled.</li>
+      <li>💡 <strong>More Exciting Additions:</strong> Stay tuned for frequent updates!</li>
+  </ul>
 
-- Configure the top-level `parserOptions` property like this:
+  <hr>
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+  <h2><strong>Screenshots</strong></h2>
+  <h3>Home Interface</h3>
+  <img src="#" alt="Screenshot - Home" />
+  <h3>Recording in Progress</h3>
+  <img src="#" alt="Screenshot - Recording" />
+  <h3>Playback and Download</h3>
+  <img src="#" alt="Screenshot - Playback" />
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+  <hr>
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+  <h2><strong>Installation</strong></h2>
+  <ol>
+      <li>Download the extension from the Chrome Web Store: <a href="#">GoLi Screen Recorder</a></li>
+      <li>Click "Add to Chrome" to install the extension.</li>
+      <li>Pin the extension to your toolbar for easy access.</li>
+      <li>Start recording and enjoy!</li>
+  </ol>
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+  <hr>
+
+  <h2><strong>Contact the Developer</strong></h2>
+  <h3><strong>Veer Rajpoot</strong></h3>
+  <ul>
+      <li><strong>Instagram:</strong> <a href="https://instagram.com/i.veerrajpoot">@i.veerrajpoot</a></li>
+      <li><strong>GitHub:</strong> <a href="https://github.com/rahoolsingh">@rahoolsingh</a></li>
+      <li><strong>X (Twitter):</strong> <a href="https://twitter.com/i_veerrajpoot">@i_veerrajpoot</a></li>
+  </ul>
+  <p>For any issues, suggestions, or feature requests, feel free to contact Veer Rajpoot. Always happy to help!</p>
+
+  <hr>
+
+  <h2><strong>License</strong></h2>
+  <p>This project is licensed under the <a href="#">MIT License</a>.</p>
