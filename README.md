@@ -1,14 +1,14 @@
 <h1 align="center">GoLi Screen Recorder</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/GoLi.png?token=GHSAT0AAAAAACWQ7BZAJV2JFK44J6MUJA26ZZ3NBSA" alt="Logo" />
+  <img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/GoLi.png" alt="Logo" />
 <p align="center"><b>Your Recording Partner</b></p>
 <img
- src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/credit.png?token=GHSAT0AAAAAACWQ7BZBOFPLMR4AHYVBECKCZZ3NYBQ"
+ src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/credit.png"
   width="80px"
   />
 </div>
-<img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/cover-image.png?token=GHSAT0AAAAAACWQ7BZBOLFCAAPFZX2WJHMIZZ3PCYQ" alt="Cover Image" />
+<img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/cover-image.png" alt="Cover Image" />
 
 ---
 
@@ -71,23 +71,23 @@
 
 ##### Extension
 
-![Screenshot - Extension](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-1.png?token=GHSAT0AAAAAACWQ7BZAFP4IS7DPH7L33SDCZZ3OIMQ)
+![Screenshot - Extension](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-1.png)
 
 ##### Home Interface
 
-![Screenshot - Home](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-2.png?token=GHSAT0AAAAAACWQ7BZB7XYZ53EWBJ25NLNGZZ3OKBQ)
+![Screenshot - Home](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-2.png)
 
 ##### Recording Screen Selection
 
-![Screenshot - Screen Selection](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-3.png?token=GHSAT0AAAAAACWQ7BZASL2SNJ6K2UZ7CUBKZZ3OK7Q)
+![Screenshot - Screen Selection](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-3.png)
 
 ##### Recording in Progress
 
-![Screenshot - Recording](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-4.png?token=GHSAT0AAAAAACWQ7BZB72IPJTCFLQKUKY2QZZ3OLPQ)
+![Screenshot - Recording](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-4.png)
 
 ##### Playback and Download
 
-![Screenshot - Playback](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-5.png?token=GHSAT0AAAAAACWQ7BZB32JS6W3G24ONMMECZZ3OMCQ)
+![Screenshot - Playback](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-5.png)
 
 ---
 
