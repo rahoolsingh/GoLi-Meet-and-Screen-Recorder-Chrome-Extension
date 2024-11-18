@@ -18,7 +18,8 @@ function Header() {
 
             <div className="flex items-center gap-2 px-5 space-x-3">
                 <a
-                    href=""
+                    href="https://instagram.com/i.veerrajpoot"
+                    target="_blank"
                     className="text-white font-medium hover:text-gray-300 space-x-2"
                 >
                     <span className="fa fa-code"></span>
