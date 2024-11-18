@@ -3,8 +3,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/GoLi.png?token=GHSAT0AAAAAACWQ7BZAJV2JFK44J6MUJA26ZZ3NBSA" alt="Logo" />
 
-<img src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/credit.png?token=GHSAT0AAAAAACWQ7BZBOFPLMR4AHYVBECKCZZ3NYBQ"
-  width="20px"
+<img
+  align="right"
+ src="https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/credit.png?token=GHSAT0AAAAAACWQ7BZBOFPLMR4AHYVBECKCZZ3NYBQ"
+  width="80px"
   />
 <br>
 <b>
