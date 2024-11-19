@@ -20,6 +20,12 @@
 
 ---
 
+### New Features Highlight
+
+🚀 **Integrated with Google Meet**
+The extension lets you record Google Meet calls directly from the page without requiring any extra configuration.
+![Screenshot - Home](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-6.png)
+
 ## **Features**
 
 -   📹 **Seamless Screen Recording:** Record your screen effortlessly with a single click.
@@ -27,6 +33,22 @@
 -   🎥 **Playback:** Preview your recordings before downloading.
 -   🚀 **User-Friendly UI:** Built with Vite and React for a sleek and responsive experience.
 -   🌐 **Works Without Internet:** Record your screen even when you're offline.
+
+---
+
+### Prerequisites
+
+Before you start using this project, make sure you have the following:
+
+-   **Google Chrome** or any Chromium-based browser (latest version recommended)
+-   **Node.js** (LTS version) and **npm** (Node package manager) installed on your local machine for development purposes.
+
+    You can check if Node.js is installed by running:
+
+    ```bash
+    node -v
+    npm -v
+    ```
 
 ---
 
@@ -57,15 +79,6 @@
 7. The extension will be added to Chrome. Pin it to your toolbar for quick access.
 
 ---
-
-<!-- ## **Installation**
-
-1. Download the extension from the Chrome Web Store: [GoLi Screen Recorder](#)
-2. Click "Add to Chrome" to install the extension.
-3. Pin the extension to your toolbar for easy access.
-4. Start recording and enjoy!
-
---- -->
 
 ## **Screenshots**
 
