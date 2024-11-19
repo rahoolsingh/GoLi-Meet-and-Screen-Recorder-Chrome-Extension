@@ -24,6 +24,7 @@
 
 🚀 **Integrated with Google Meet**
 The extension lets you record Google Meet calls directly from the page without requiring any extra configuration.
+
 ![Screenshot - Home](https://raw.githubusercontent.com/rahoolsingh/GoLi-Meet-and-Screen-Recorder-Chrome-Extension/refs/heads/master/assets/screenshots/screenshot-6.png)
 
 ## **Features**
