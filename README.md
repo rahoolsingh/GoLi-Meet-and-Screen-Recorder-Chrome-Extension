@@ -55,7 +55,7 @@ Before you start using this project, make sure you have the following:
 
 ## **Upcoming Features**
 
--   🛠 **Meet Recording Button:** Direct recording integration for Google Meet and Zoom.
+-   🛠 **Meet Recording Button:** Direct recording integration for Google Meet and Zoom. (Available Now - Beta)
 -   🌐 **Custom Website Whitelisting:** Add specific websites where screen recording is enabled.
 -   💡 **More Exciting Additions:** Stay tuned for frequent updates!
 
