@@ -102,13 +102,13 @@ window.addEventListener("load", () => {
                                 chunks.push(e.data);
                             mediaRecorder.onstop = () => {
                                 const blob = new Blob(chunks, {
-                                    type: "video/mp4",
+                                    type: "video/webm",
                                 });
                                 const url = URL.createObjectURL(blob);
 
                                 const a = document.createElement("a");
                                 a.href = url;
-                                a.download = `GoLi-Meet-Recording-${new Date().toISOString()}.mp4`;
+                                a.download = `GoLi-Meet-Recording-${new Date().toISOString()}.webm`;
                                 a.click();
                                 URL.revokeObjectURL(url);
                             };
