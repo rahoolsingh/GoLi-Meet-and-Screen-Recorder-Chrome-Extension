@@ -88,10 +88,7 @@ window.addEventListener("load", () => {
                             stream =
                                 await navigator.mediaDevices.getDisplayMedia({
                                     video: true,
-                                    audio: {
-                                        echoCancellation: true,
-                                        noiseSuppression: true,
-                                    },
+                                    audio: true,
                                     preferCurrentTab: true, // Suggests the current tab
                                 });
 
