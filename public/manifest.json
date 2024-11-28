@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "GoLi - Screen Recorder",
-    "version": "2.0",
+    "version": "2.1",
     "description": "No More Searching a Application for Quick Tutorials. Record your screen with ease.",
     "permissions": ["scripting", "activeTab"],
     "host_permissions": ["https://meet.google.com/*"],
